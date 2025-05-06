@@ -25,4 +25,14 @@ Unity AI Behavior Toolkit (C#) – Unity 게임에서 NPC의 AI 동작을 손쉽
 
 # 포트폴리오용 개발
 
+OPENGL:VISUALBASIC을 이용하여 쉐이더를 구성하였고, 쉐이더값을 일부 조정하여 다양한 기능을 구성하였습니다.
+링크 -> https://github.com/privateeye98/OPENGL
 
+PROJECT T : UNITY를 이용하여,통칭 말하는 운영자 테스트맵을 구성할 예정입니다. 만약 필요하다면 맵을 일부 제작할 예정입니다. 매주 토요일에 업로드할 예정입니다.
+정리블로그 : privateeye98.github.io
+포트폴리오 링크 : https://github.com/privateeye98/projectT
+
+PROJECT T2 : UNITY를 이용하여 3인칭 슈팅게임을 제작하였습니다. 카메라, 무기의 변경, 인벤토리, HP, 애니메이터의 구성을 통하여 상호작용을 구현하였습니다.
+
+깃허브 알고리즘/자료구조 블로그 : 깃허브 기술블로그를 운영하고 있습니다. 운영분야는 '자료구조','알고리즘','UNITY','UNREALENGINE'이 될 예정이며, 제가 공부한 모든것을 업로드 할 예정입니다.
+정리블로그 : privateeye98.github.io
