@@ -25,7 +25,7 @@ OPENGL:VISUALBASIC을 이용하여 쉐이더를 구성하였고, 쉐이더값을
 링크 -> https://github.com/privateeye98/OPENGL
 
 PROJECT T2 : 
--> 
+링크 -> https://github.com/privateeye98/projectT2
 
 PROJECT T : UNITY를 이용하여,통칭 말하는 운영자 테스트맵을 구성할 예정입니다. 만약 필요하다면 맵을 일부 제작할 예정입니다. 매주 토요일에 업로드할 예정입니다.
 정리블로그 : privateeye98.github.io
