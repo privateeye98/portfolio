@@ -24,7 +24,7 @@ Unity AI Behavior Toolkit (C#) – Unity 게임에서 NPC의 AI 동작을 손쉽
 OPENGL:VISUALBASIC을 이용하여 쉐이더를 구성하였고, 쉐이더값을 일부 조정하여 다양한 기능을 구성하였습니다.
 링크 -> https://github.com/privateeye98/OPENGL
 
-PROJECT T2 : 
+PROJECT T2 : UNITY를 이용하여, 3D 쿼드게임을 구성하였습니다. 테스트용 포트폴리오입니다.
 링크 -> https://github.com/privateeye98/projectT2
 
 PROJECT T : UNITY를 이용하여,통칭 말하는 운영자 테스트맵을 구성할 예정입니다. 만약 필요하다면 맵을 일부 제작할 예정입니다. 매주 토요일에 업로드할 예정입니다.
