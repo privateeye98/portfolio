@@ -40,7 +40,7 @@ PROJECT T2 : UNITY를 이용하여 3인칭 슈팅게임을 제작하였습니다
 정리블로그 : privateeye98.github.io  
 
 
-#게임 경력(?)  
+# 게임 경력(?)  
 
 Maplestory 284 arkmage  
 PUBG PLAYTIME 1337  
