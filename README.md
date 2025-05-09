@@ -35,3 +35,16 @@ PROJECT T2 : UNITY를 이용하여 3인칭 슈팅게임을 제작하였습니다
 
 깃허브 알고리즘/자료구조 블로그 : 깃허브 기술블로그를 운영하고 있습니다. 운영분야는 '자료구조','알고리즘','UNITY','UNREALENGINE'이 될 예정이며, 제가 공부한 모든것을 업로드 할 예정입니다.
 정리블로그 : privateeye98.github.io
+
+
+#게임 경력(?)
+
+Maplestory 284 arkmage
+PUBG PLAYTIME 1337
+KARTRIDER full level
+dark desert complete sinario
+OVERWATCH1 DIAMOND 
+Sudden Attack LENGEND
+STARCRAFT LADDER C+
+
+
