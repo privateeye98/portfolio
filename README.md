@@ -31,8 +31,8 @@ OPENGL:VISUALBASIC을 이용하여 쉐이더를 구성하였고, 쉐이더값을
 PROJECT T : UNITY를 이용하여,통칭 말하는 운영자 테스트맵을 구성할 예정입니다. 만약 필요하다면 맵을 일부 제작할 예정입니다. 매주 토요일에 업로드할 예정입니다.
 [예시사진]  
 ![Image](https://github.com/user-attachments/assets/8df67003-a707-4558-bf9c-8d54c6d8f96b)  
-구현완료 : PLAYER , ENEMY ,전투시스템, 상호작용, ANIMATOR,세팅,시작화면 ,HP, DAMAGE  
-구현예정 : 인벤토리 , NPC상호작용 , 아이템 구매, 아이템 판매, 랜덤 가챠시스템 , 스킬 , 맵 , 퀘스트 등  
+구현완료 : PLAYER , ENEMY ,전투시스템, 상호작용, ANIMATOR,세팅,시작화면 ,HP, DAMAGE , 인벤토리 , 아이템 사용 , 획득  
+구현예정 : NPC상호작용 , 아이템 구매, 아이템 판매, 랜덤 가챠시스템 , 스킬 , 맵 , 퀘스트 등  
 5월 마지막주까지 완료 예정입니다.   
 정리블로그 : [privateeye98.github.io  ](https://privateeye98.github.io/categories/unity/)
 포트폴리오 링크 : https://github.com/privateeye98/projectT  
