@@ -36,6 +36,7 @@ PROJECT T : UNITY를 이용하여,통칭 말하는 운영자 테스트맵을 구
 5월 마지막주까지 완료 예정입니다.   
 정리블로그 : [privateeye98.github.io  ](https://privateeye98.github.io/categories/unity/)
 포트폴리오 링크 : https://github.com/privateeye98/projectT  
+정리 링크 : https://www.notion.so/05-20-1f9d26a2e08b805b9b4de1440db706f4  
 
 PROJECT T2 : UNITY를 이용하여 3인칭 슈팅게임을 제작하였습니다. 카메라, 무기의 변경, 인벤토리, HP, 애니메이터의 구성을 통하여 상호작용을 구현하였습니다.  
 링크 -> https://github.com/privateeye98/projectT2  
